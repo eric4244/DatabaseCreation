@@ -1,4 +1,4 @@
-/* Hunter Erickson, 4322 Project, 11/29/2022 */
+/* Hunter Erickson*/
 
 CREATE TABLE purchase(
     id INT,
@@ -112,7 +112,6 @@ CREATE TABLE bond(
 );
 
 /* Inserting data */
-/* perform client, investment_account, investment_instrument, transaction, then however you feel. */
 
 /* Client Insertions */
 INSERT INTO client VALUES(111111111, 'Billy Bob', 'goodoljimmy@blah', 123, 111111111, 111111111);
